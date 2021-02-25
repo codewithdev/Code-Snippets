@@ -1,2 +1,2 @@
 # Code-Snippets
-A Repo that contains some useful Code-Snippets for various applications
+A Repo that contains Code-Snippets useful for various applications
