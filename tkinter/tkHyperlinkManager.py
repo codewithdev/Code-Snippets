@@ -27,7 +27,7 @@ class HyperlinkManager:
         return "hyper", tag
 
     def _enter(self, event):
-        self.text.config(cursor="pointinghand")
+        self.text.config(cursor="hand2")
 
     def _leave(self, event):
         self.text.config(cursor="")
