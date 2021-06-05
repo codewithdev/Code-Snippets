@@ -1,6 +1,6 @@
 #Sourced from effbot.org
 
-from Tkinter import *
+from tkinter import *
 
 class HyperlinkManager:
 
